@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "irony",
+  "base_artist": "ClariS",
+  "createdAt": "2026-02-20T03:14:47.018586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Some Grand Vision of Motives and Irony",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/01_Some_Grand_Vision_of_Motives_and_Irony_The_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Some Grand Vision of Motives And Irony",
+      "artist": "Loud Family",
+      "has_synced": false,
+      "path": "select/02_Some_Grand_Vision_of_Motives_And_Irony_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "irony",
+      "artist": "Aco",
+      "has_synced": false,
+      "path": "select/03_irony_Aco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perfect Irony",
+      "artist": "Happy Rhodes",
+      "has_synced": true,
+      "path": "select/04_Perfect_Irony_Happy_Rhodes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Irony of Fate",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/05_Irony_of_Fate_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Any Old Irony?",
+      "artist": "Skyclad",
+      "has_synced": false,
+      "path": "select/06_Any_Old_Irony_Skyclad.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Irony of Choking on a Lifesaver",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/07_The_Irony_of_Choking_on_a_Lifesaver_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Irony of It All",
+      "artist": "The Streets",
+      "has_synced": true,
+      "path": "select/08_The_Irony_of_It_All_The_Streets.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For Whom the Bell Tolls (The Irony of It All)",
+      "artist": "Metallica & DJ Spooky",
+      "has_synced": true,
+      "path": "select/09_For_Whom_the_Bell_Tolls_(The_Irony_of_It_All)_Metallica_&_DJ_Spooky.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For Whom The Bell Tolls (The Irony Of It All)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/10_For_Whom_The_Bell_Tolls_(The_Irony_Of_It_All)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Irony of Dying On Your Birthday",
+      "artist": "Senses Fail",
+      "has_synced": false,
+      "path": "select/11_Irony_of_Dying_On_Your_Birthday_Senses_Fail.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Irony",
+      "artist": "Dirt Poor Robins",
+      "has_synced": true,
+      "path": "select/12_Irony_Dirt_Poor_Robins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "irony",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/13_irony_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "snow irony",
+      "artist": "Maison book girl",
+      "has_synced": false,
+      "path": "select/14_snow_irony_Maison_book_girl.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "irony",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_irony_ClariS.txt"
+    }
+  ]
+}
